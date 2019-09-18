@@ -1,0 +1,58 @@
+h6{
+    color: #4fc3f7;
+}
+
+.opportunities{
+    color: #000;
+    font-weight: bold;
+}
+
+p{
+    font-kerning: auto;
+}
+
+.panel-body{
+    align-content: center;
+}
+
+.products{
+    display: inline-block;
+}
+
+img {
+    height: 200px;
+}
+
+.panel-heading{
+    background-color: #ececec;
+    border-radius: 10px 10px 0 0;
+}
+
+.panel {
+    border-color: #d0d0d0;
+    border-radius: 10px;
+}
+
+.footer{
+    background-color: #101010;
+    width: 100%;
+    bottom: 0;
+    position: absolute;
+}
+
+a{
+    color: #d0d0d0;
+}
+
+#table-cart{
+    margin-top: 60px;
+}
+
+.form-container{
+    margin-top: 50px;
+}
+
+.signup-image{
+    background-image: url("../images/signup-image.jpg");
+    background-repeat: no-repeat;
+}
